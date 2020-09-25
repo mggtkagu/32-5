@@ -1,0 +1,9 @@
+D:\ИС-21\Цатуров\камень\камень\bin\Debug\камень.exe.config
+D:\ИС-21\Цатуров\камень\камень\bin\Debug\камень.exe
+D:\ИС-21\Цатуров\камень\камень\bin\Debug\камень.pdb
+D:\ИС-21\Цатуров\камень\камень\obj\Debug\камень.csprojAssemblyReference.cache
+D:\ИС-21\Цатуров\камень\камень\obj\Debug\камень.Form1.resources
+D:\ИС-21\Цатуров\камень\камень\obj\Debug\камень.Properties.Resources.resources
+D:\ИС-21\Цатуров\камень\камень\obj\Debug\камень.csproj.GenerateResource.cache
+D:\ИС-21\Цатуров\камень\камень\obj\Debug\камень.exe
+D:\ИС-21\Цатуров\камень\камень\obj\Debug\камень.pdb
